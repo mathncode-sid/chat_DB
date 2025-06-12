@@ -45,6 +45,6 @@ chainlit run app.py
 The AI is tailored to only answer questions from the Database
 
 ## Project Structure
-app.py — Main application logic
-chinook.sqlite — SQLite database file
-requirements.txt — Python dependencies
+i) app.py — Main application logic
+ii) chinook.sqlite — SQLite database file
+iii) requirements.txt — Python dependencies
