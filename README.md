@@ -50,3 +50,12 @@ i) app.py — Main application logic
 ii) chinook.sqlite — SQLite database file
 iii) requirements.txt — Python dependencies
 ```
+
+## What's Next
+
+- Expand core chat features and improve user experience
+- Integrate new database options and optimize existing queries
+- Add advanced user authentication and role management
+- Enhance testing coverage and automation
+- Improve documentation with usage examples and deployment guides
+- Explore deployment to cloud platforms and containerization
